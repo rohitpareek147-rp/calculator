@@ -1,5 +1,5 @@
 {
-  "name": "rp-calculator",
+  "name": "@xebia-kotak-mb/rp-calculator",
   "version": "1.0.0",
   "description": "demo calculator",
   "main": "index.js",
