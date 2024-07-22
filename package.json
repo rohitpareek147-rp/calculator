@@ -1,0 +1,22 @@
+{
+  "name": "rp-calculator",
+  "version": "1.0.0",
+  "description": "demo calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitpareek147-rp/calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Rohit pareek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohitpareek147-rp/calculator/issues"
+  },
+  "homepage": "https://github.com/rohitpareek147-rp/calculator#readme"
+}
