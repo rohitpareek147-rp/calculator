@@ -1,5 +1,3 @@
-function calculator(num1, num2) {
-    return `result =>  ${num1} + ${num2} = ${num1 + num2}`
-  }
-  
-  module.exports = calculator
+// import { addition, subtraction } from "./calculator";
+const {addition , subtraction,multiplication} = require('./calculator')
+module.exports = { addition, subtraction, multiplication };
