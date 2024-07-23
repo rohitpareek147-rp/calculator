@@ -6,8 +6,5 @@ function subtraction(num1, num2) {
   return `result =>  ${num1} - ${num2} = ${num1 - num2}`;
 }
 
-function multiplication(num1, num2) {
-  return `result =>  ${num1} * ${num2} = ${num1 * num2}`;
-}
 
-module.exports = {addition , subtraction,multiplication}
+module.exports = {addition , subtraction}
